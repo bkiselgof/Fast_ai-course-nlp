@@ -135,3 +135,7 @@ examples/.last_checked
 examples/fastai
 docs_src/fastai
 
+#data files
+data/
+
+
